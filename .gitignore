@@ -92,5 +92,7 @@ ENV/
 .idea/
 AssociationRulesMining/FPTree/
 AssociationRulesMining/
-AssociationRulesMining/Apriori/README.md
+AssociationRulesMining/Apriori/AprioriREADME.md
 !/AssociationRulesMining/
+!/AssociationRulesMining/Apriori/AprioriREADME.md
+!/AssociationRulesMining/FPTree/

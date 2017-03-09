@@ -93,3 +93,4 @@ ENV/
 AssociationRulesMining/FPTree/
 AssociationRulesMining/
 AssociationRulesMining/Apriori/README.md
+!/AssociationRulesMining/

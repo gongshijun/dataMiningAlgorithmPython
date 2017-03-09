@@ -96,3 +96,6 @@ AssociationRulesMining/Apriori/AprioriREADME.md
 !/AssociationRulesMining/
 !/AssociationRulesMining/Apriori/AprioriREADME.md
 !/AssociationRulesMining/FPTree/
+!/AssociationRulesMining/Apriori/
+!/AssociationRulesMining/Apriori/__init__.py
+!/AssociationRulesMining/Apriori/apriori_main.py

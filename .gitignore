@@ -90,3 +90,6 @@ ENV/
 # Rope project settings
 .ropeproject
 .idea/
+AssociationRulesMining/FPTree/
+AssociationRulesMining/
+AssociationRulesMining/Apriori/README.md
